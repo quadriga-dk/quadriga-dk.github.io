@@ -2,4 +2,4 @@
 
 #### **Berlin-Brandenburgisches Datenkompetenzzentrum für Digital Humanities, Verwaltungswissenschaften, Informatik und Informationswissenschaften**
 
-Webseite für das Datenkompetenzzentrum QUADRIGA
+Landing Page für das Datenkompetenzzentrum QUADRIGA
