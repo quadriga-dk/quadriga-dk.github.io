@@ -10,7 +10,9 @@ Die **Forschungsorte** geben mittels Fallstudien zu den Datentypen Bewegtes Bild
 Als fachspezifisches, regionales Zentrum von sich komplementär ergänzenden Verbundpartnern besitzt QUADRIGA durch die Einbindung der jeweiligen Fachgesellschaften eine große Strahlkraft weit über die Grenzen des Wissenschaftsstandortes Berlin-Brandenburg hinaus. Charakteristisch ist die gelebte digitale Datenkultur im Forschungsalltag durch die Bündelung der Vielfalt und Erweiterung der methodischen Basis und systematischer Kompetenzentwicklung rund um die Datentypen Text, Tabelle und bewegtes Bild. 
 
 **Weiterführende Informationen zum Datenkompetenzzentum QUADRIGA finden Sie unter:** [www.quadriga-dk.de](https://www.quadriga-dk.de/de/)
-
+<br /> 
+<br /> 
+<br /> 
 
 ### **Verbundpartner**
 <img src="https://github.com/quadriga-dk/quadriga-dk.github.io/assets/166709081/e5a2bdb5-4530-4cf4-a6ce-22ad2c749f28" widht="600">
